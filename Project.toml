@@ -3,6 +3,9 @@ uuid = "3e1bbb30-02e3-45f4-af62-23491e76b25f"
 authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
 version = "0.1.0-DEV"
 
+[deps]
+ContextVariablesX = "6add18c4-b38d-439d-96f6-d6bc489c04c5"
+
 [compat]
 julia = "1"
 
